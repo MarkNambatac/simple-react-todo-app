@@ -17,8 +17,8 @@ Simple implementation of Google Task Clone Todo App in React
 
 ## Screenshots
 
-![App Screenshot](client\todo\public\task-app.png)
-![App Screenshot](client\todo\public\add-task.png)
+![App Screenshot](https://github.com/MarkNambatac/simple-react-todo-app/blob/master/client/todo/public/task-app.png)
+![App Screenshot](https://github.com/MarkNambatac/simple-react-todo-app/blob/master/client/todo/public/add-task.png)
 
 ## Run Locally
 
