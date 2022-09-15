@@ -37,7 +37,7 @@ const CompletedTask = (props) => {
                 </s>
                 <p class="text-xs text-green-500">
                   Completed at:{" "}
-                  {new Date(item.taskduedate).toISOString().split("T")[0]}
+                  {new Date(item.taskcompleteddate).toISOString().split("T")[0]}
                 </p>
               </div>
             </div>
